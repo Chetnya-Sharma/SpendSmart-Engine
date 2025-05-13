@@ -1,0 +1,10 @@
+cards:
+  - name: "Platinum Plus"
+    cashback: 3
+    welcome_bonus: 5000
+  - name: "Gold Rewards"
+    cashback: 2
+    welcome_bonus: 2000
+  - name: "Silver Saver"
+    cashback: 1
+    welcome_bonus: 1000
