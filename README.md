@@ -30,11 +30,15 @@ maxx-maicard/
 
 ## Setup
 
-1. **Clone** (replace with your repo URL):
+1. **Clone**:
 
    ```bash
   git clone [https://github.com/yourusername/SpendWise-Recommender.git](https://github.com/Chetnya-Sharma/SpendSmart-Engine) \
   && cd SpendWise-Recommender
+   ```bash
+git clone [https://github.com/yourusername/SpendWise-Recommender.git](https://github.com/Chetnya-Sharma/SpendSmart-Engine) \
+  && cd SpendWise-Recommender
+   ```
   
   
    
