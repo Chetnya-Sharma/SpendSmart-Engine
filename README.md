@@ -33,14 +33,9 @@ maxx-maicard/
 1. **Clone**:
 
    ```bash
-  git clone [https://github.com/yourusername/SpendWise-Recommender.git](https://github.com/Chetnya-Sharma/SpendSmart-Engine) \
-  && cd SpendWise-Recommender
-   ```bash
-git clone [https://github.com/yourusername/SpendWise-Recommender.git](https://github.com/Chetnya-Sharma/SpendSmart-Engine) \
-  && cd SpendWise-Recommender
-   ```
-  
-  
+  git clone https://github.com/Chetnya-Sharma/SpendSmart-Engine.git \
+  && cd SpendSmart-Engine
+    
    
 
 2. **Create `.env`** from `.env.example` and fill in your values.
