@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+pyyaml
+motor
+python-multipart
+python-jose[cryptography]
+google-auth
+google-auth-oauthlib
+google-api-python-client
+pdfminer.six
