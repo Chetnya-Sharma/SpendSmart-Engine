@@ -35,7 +35,7 @@ maxx-maicard/
    ```bash
 git clone https://github.com/yourusername/SpendWise-Recommender.git \
   && cd SpendWise-Recommender
-   ```
+   
 
 2. **Create `.env`** from `.env.example` and fill in your values.
 
